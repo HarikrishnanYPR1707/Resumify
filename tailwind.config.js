@@ -14,6 +14,7 @@ module.exports = {
       colors: {
         Green: "#03b57b",
         Black: "#323232",
+        FadedGray: "#f8fafc",
         DarkGray: "#595456",
         FadedWhite: "#eeede8",
         White: "#fefefe",

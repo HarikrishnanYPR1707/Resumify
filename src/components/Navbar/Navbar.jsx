@@ -37,10 +37,10 @@ const Navbar = () => {
       {/* logo */}
       <p className="group ml-10 text-[24px] font-bold text-black">
         <span className="group-hover:border-b-2 group-hover:border-dashed group-hover:border-black">
-          Resume
+          Resumi
         </span>
         <span className="text-Green group-hover:border-b-2 group-hover:border-dashed group-hover:border-Green">
-          Pro
+          fy
         </span>
       </p>
       {/* login, signup and profile */}
@@ -55,7 +55,7 @@ const Navbar = () => {
               Login
             </li>
             <li
-              className="cursor-pointer rounded-lg bg-Green px-5 py-2 text-center text-white hover:bg-[#329876] "
+              className="cursor-pointer rounded-lg bg-Green px-5 py-2 text-center text-white hover:bg-[#329876]"
               onClick={handleSignIn}
             >
               SignUp
